@@ -1,0 +1,13 @@
+package.json --npm init
+
+index.js
+code
+
+npm i mongoose express dotenv
+
+Dockerfile
+code
+
+docker-compose.yml
+code
+
